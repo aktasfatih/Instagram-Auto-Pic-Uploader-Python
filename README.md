@@ -1,5 +1,7 @@
 # Instagram-Auto-Pic-Uploader-Python
 
-Helps uploading pictures faster.
+## In short
+The purpose of the this terminal based python program is to make publishing content easier for the Instagram users. 
 
-I will add the details later. The code doesn't work right now.
+## Project Details
+This project is still not finished. Use at your own risk. I will add the details.
