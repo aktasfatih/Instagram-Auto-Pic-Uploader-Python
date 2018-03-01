@@ -6,10 +6,12 @@ print()
 
 files = None
 
+# ID: INSTAGRAM Login username
+# Pass: INSTAGRAM Login password
 ID = None
 Pass = None
 
-#In hours
+# Waiting time after posting
 WaitingTime = 4
 
 def main():
